@@ -14,7 +14,7 @@ toc = true
 #**vive** 
 ##*les loutres* 
 
-tata^1
+tata[^1]
 
 <img src= "https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png" alt="your-image-description" style="border:2px solid grey;">
 
@@ -39,5 +39,8 @@ ______________________________
 *********
 >bblockquote
 
-[titre lien cyberlearn](https://cyberlearn.hes-so.ch/)
+[^2] :yes
+[^3] : **moelleux**
+
+[cyberlearn](https://cyberlearn.hes-so.ch/)
 
