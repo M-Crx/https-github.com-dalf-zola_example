@@ -33,7 +33,8 @@ ______________________________
 
 ------------------------
 |  *tata| *titi | *toto  |
-|:------|:-----:|-------:|
+|------|:-----:|-------|
+|boule|boule|boule|
 *********
 
 [titre lien cyberleran](https://cyberlearn.hes-so.ch/)
