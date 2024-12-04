@@ -31,11 +31,13 @@ ______________________________
 [*Biodiversity* **PMC**](https://biodiversitypmc.sibils.org/ )
 
 
-------------------------
-|  *tata| *titi | *toto  |
+-----------------------
+|tata|titi|toto[^1]|
 |------|:-----:|-------|
-|boule|boule|boule|
+|boule|boule|boule[^2]|
+|rose|rose|rose[^3]|
 *********
+>bblockquote
 
-[titre lien cyberleran](https://cyberlearn.hes-so.ch/)
+[titre lien cyberlearn](https://cyberlearn.hes-so.ch/)
 
