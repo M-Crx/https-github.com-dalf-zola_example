@@ -12,15 +12,29 @@ toc = true
 +++
 
 #**vive** 
-##*les loutres* \*
+##*les loutres* 
 
-tata
+tata^1
+
+<img src= "https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png" alt="your-image-description" style="border:2px solid grey;">
+
+_____________________________
+|fruits|légumes|viandes[^1]|
+|------|:-------:|-------|
+|orange|concombre|veau|
+|fraise|courgette|poulet|
+|mure|mais|boeuf|
+______________________________
+
+[^1]: My reference lol
+
+[*Biodiversity* **PMC**](https://biodiversitypmc.sibils.org/ )
 
 
 ------------------------
-|  tata| titi | toto  |
-------------------------
-|:-----|:----:|------:|
+|  *tata| *titi | *toto  |
+|:------|:-----:|-------:|
+*********
 
-[dadad]
+[titre lien cyberleran](https://cyberlearn.hes-so.ch/)
 
