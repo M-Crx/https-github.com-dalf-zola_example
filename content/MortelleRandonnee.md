@@ -11,8 +11,10 @@ tags = ["Esquive les flèches ou meurs pour l'éternité et au-delà!"]
 toc = true
 +++
 
-#**vive** 
-##*les loutres* 
+**vive** 
+=====
+*les loutres* 
+------------
 
 tata[^1]
 
@@ -27,6 +29,8 @@ _____________________________
 ______________________________
 
 [^1]: My reference lol
+[^2]: yes
+[^3]: **moelleux**
 
 [*Biodiversity* **PMC**](https://biodiversitypmc.sibils.org/ )
 
@@ -39,8 +43,7 @@ ______________________________
 *********
 >bblockquote
 
-[^2]: yes
-[^3]: **moelleux**
+
 
 [cyberlearn](https://cyberlearn.hes-so.ch/)
 
