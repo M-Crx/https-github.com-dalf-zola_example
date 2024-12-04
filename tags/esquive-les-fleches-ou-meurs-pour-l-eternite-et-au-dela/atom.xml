@@ -23,8 +23,8 @@
         <link rel="alternate" type="text/html" href="https://M-Crx.github.io/zola_example/mortellerandonnee/"/>
         <id>https://M-Crx.github.io/zola_example/mortellerandonnee/</id>
         
-        <content type="html" xml:base="https://M-Crx.github.io/zola_example/mortellerandonnee/">&lt;p&gt;#&lt;strong&gt;vive&lt;&#x2F;strong&gt;
-##&lt;em&gt;les loutres&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://M-Crx.github.io/zola_example/mortellerandonnee/">&lt;h1 id=&quot;vive&quot;&gt;&lt;strong&gt;vive&lt;&#x2F;strong&gt;&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;les-loutres&quot;&gt;&lt;em&gt;les loutres&lt;&#x2F;em&gt;&lt;&#x2F;h2&gt;
 &lt;p&gt;tata&lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-1-1&quot;&gt;&lt;a href=&quot;#fn-1&quot;&gt;[1]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;p&gt;
 &lt;img src= &quot;https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;img&#x2F;logo_banner.7ff68d4d.png&quot; alt=&quot;your-image-description&quot; style=&quot;border:2px solid grey;&quot;&gt;
 &lt;hr &#x2F;&gt;
