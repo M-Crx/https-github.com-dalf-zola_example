@@ -39,8 +39,8 @@ ______________________________
 *********
 >bblockquote
 
-[^2] :yes
-[^3] : **moelleux**
+[^2]: yes
+[^3]: **moelleux**
 
 [cyberlearn](https://cyberlearn.hes-so.ch/)
 
