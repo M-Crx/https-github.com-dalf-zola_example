@@ -23,7 +23,14 @@
         <link rel="alternate" type="text/html" href="https://M-Crx.github.io/zola_example/mortellerandonnee/"/>
         <id>https://M-Crx.github.io/zola_example/mortellerandonnee/</id>
         
-        <content type="html" xml:base="https://M-Crx.github.io/zola_example/mortellerandonnee/">&lt;p&gt;tata&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://M-Crx.github.io/zola_example/mortellerandonnee/">&lt;p&gt;#&lt;strong&gt;vive&lt;&#x2F;strong&gt;
+##&lt;em&gt;les loutres&lt;&#x2F;em&gt; *&lt;&#x2F;p&gt;
+&lt;p&gt;tata&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;tata-titi-toto&quot;&gt;|  tata| titi | toto  |&lt;&#x2F;h2&gt;
+&lt;p&gt;|:-----|:----:|------:|&lt;&#x2F;p&gt;
+&lt;p&gt;[]
+&amp;lt;&lt;&#x2F;p&gt;
 </content>
         
     </entry>
